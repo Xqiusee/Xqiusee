@@ -1,17 +1,23 @@
-### Languages
-! Javascript
-! MySQL
-! LUA
-! Express.JS
+# About Me
+Passionate Developer with a knack for turning ideas into reality through clean, efficient code. I thrive on solving complex problems, learning new technologies, and building user-friendly applications. Constantly evolving, I stay up-to-date with the latest trends to deliver innovative and scalable solutions.
 
-#### Learning
+# Tech Stack
+Proficient in a range of technologies, with a focus on:
+- **JavaScript/Node.js** for discord development & tools (Learning the FiveM Side of Javscript As Well)
+- **HTML** For Web Development for panels & management systems 
+- **Lua** for scripting and game development (especially in FiveM)
+- **MariaDB**, **MySQL**, **MongoDB** for database management (Especially for FiveM & Discord Bots)
 
-! Next.JS
-! C
+# Professional Experience
+### Freelance Developer (April 2024 - Present)
+I specialize in backend development, FiveM server development, and discord bots.
+
+# Learning At The Moment
+ReactJS, C, Linux, EJS
 
 ### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- **Windows 10/11** My main Operating System for Day to Day efficiency and use.
+- **Linux/Ubuntu** For certain aspects of Security & DDOS Protection.
 
 ## My Stats
 
