@@ -19,6 +19,10 @@ ReactJS, C, Linux, EJS
 - **Windows 10/11** My main Operating System for Day to Day efficiency and use.
 - **Linux/Ubuntu** For certain aspects of Security & DDOS Protection.
 
+### How to reach me
+
+**Discord Username:** xqiusee
+
 ## My Stats
 
 ![Solstice-Development's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xqiusee&show_icons=true&count_private=true&theme=transparent)
@@ -26,7 +30,3 @@ ReactJS, C, Linux, EJS
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xqiusee&layout=compact&theme=transparent)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xqiusee)](https://github.com/anuraghazra/github-readme-stats)
-
-## How to reach me
-
-xqiusee on discord
