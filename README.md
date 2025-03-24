@@ -28,5 +28,3 @@ ReactJS, C, Linux, EJS
 ![Solstice-Development's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xqiusee&show_icons=true&count_private=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xqiusee&layout=compact&theme=transparent)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xqiusee)](https://github.com/anuraghazra/github-readme-stats)
